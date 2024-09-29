@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+.navbar-brand img {
+    height: 120px;
+    margin-right: 10px;
+}
+.navbar-nav .nav-link {
+    color: #555;
+    font-weight: bold;
+}
+.navbar-nav .nav-link.active {
+    color: #007bff;
+}
+    .heroic img{
+        width: 100%;
+        height: auto;
+        max-height: 80vh;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+      }
+      
+  
+  
+  
